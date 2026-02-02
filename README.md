@@ -16,24 +16,23 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+Users are be able to:
 
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
-![](social-links-profile-main/solution/active _states.png,social-links-profile-main/solution/desktop_mode.png,social-links-profile-main/solution/mobile_mode.png)
+![](solution/active _states.png,solution/desktop_mode.png,solution/mobile_mode.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/gaiuso33/Social-links-profile-)
+- Live Site URL: (https://gaiuso33.github.io/Social-links-profile-/)
 
 ## My process
 Thinking about the final picture. naming tags and containers for easy CSS application. And beginning the project. 
